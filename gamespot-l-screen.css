@@ -1,0 +1,10 @@
+.frame-overall
+{
+  padding: 0;
+  margin: 0 auto;
+  width: 800px;
+}
+
+#screen {
+  height: 470px;
+}
